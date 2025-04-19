@@ -1,0 +1,28 @@
+team,id,headshot,firstName,lastName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,heightInCentimeters,weightInKilograms,birthDate,birthCity,birthStateProvince,birthCountry
+CAR,8478427,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478427.png,Sebastian,Aho,20,C,L,72,180,183,82,1997-07-26,Rauma,,FIN
+CAR,8482809,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482809.png,Jackson,Blake,53,R,R,71,178,180,81,2003-08-03,Fargo,ND,USA
+CAR,8480291,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480291.png,Skyler,Brind'Amour,76,C,L,74,195,188,88,1999-07-27,Raleigh,NC,USA
+CAR,8477478,https://assets.nhle.com/mugs/nhl/20242025/CAR/8477478.png,William,Carrier,28,L,L,74,220,188,100,1994-12-20,LaSalle,QC,CAN
+CAR,8475791,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475791.png,Taylor,Hall,71,L,L,73,210,185,95,1991-11-14,Calgary,AB,CAN
+CAR,8476873,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476873.png,Mark,Jankowski,77,C,L,76,212,193,96,1994-09-13,Hamilton,ON,CAN
+CAR,8482093,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482093.png,Seth,Jarvis,24,C,R,70,184,178,83,2002-02-01,Winnipeg,MB,CAN
+CAR,8479370,https://assets.nhle.com/mugs/nhl/20242025/CAR/8479370.png,Tyson,Jost,27,C,L,71,187,180,85,1998-03-14,St. Albert,AB,CAN
+CAR,8480829,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480829.png,Jesperi,Kotkaniemi,82,C,L,75,203,191,92,2000-07-06,Pori,,FIN
+CAR,8476921,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476921.png,Jordan,Martinook,48,L,L,73,208,185,94,1992-07-25,Brandon,MB,CAN
+CAR,8484203,https://assets.nhle.com/mugs/nhl/20242025/CAR/8484203.png,Bradly,Nadeau,29,L,R,71,172,180,78,2005-05-05,St-Francois de Madaw,NB,CAN
+CAR,8480762,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480762.png,Eric,Robinson,50,L,L,74,211,188,96,1995-06-14,Bellmawr,NJ,USA
+CAR,8478458,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478458.png,Jack,Roslovic,96,C,R,73,198,185,90,1997-01-29,Columbus,OH,USA
+CAR,8473533,https://assets.nhle.com/mugs/nhl/20242025/CAR/8473533.png,Jordan,Staal,11,C,L,76,220,193,100,1988-09-10,Thunder Bay,ON,CAN
+CAR,8482702,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482702.png,Logan,Stankoven,22,C,R,68,165,173,75,2003-02-26,Kamloops,BC,CAN
+CAR,8480830,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480830.png,Andrei,Svechnikov,37,R,L,75,199,191,90,2000-03-26,Barnaul,,RUS
+CAR,8470613,https://assets.nhle.com/mugs/nhl/20242025/CAR/8470613.png,Brent,Burns,8,D,R,77,228,196,103,1985-03-09,Barrie,ON,CAN
+CAR,8478970,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478970.png,Jalen,Chatfield,5,D,R,73,199,185,90,1996-05-15,Ypsilanti,MI,USA
+CAR,8481562,https://assets.nhle.com/mugs/nhl/20242025/CAR/8481562.png,Domenick,Fensore,89,D,L,69,175,175,79,2001-09-07,Thornwood,NY,USA
+CAR,8476906,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476906.png,Shayne,Gostisbehere,4,D,L,71,183,180,83,1993-04-20,Pembroke Pines,FL,USA
+CAR,8482666,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482666.png,Scott,Morrow,56,D,R,74,210,188,95,2002-11-01,Darien,CT,USA
+CAR,8475200,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475200.png,Dmitry,Orlov,7,D,L,71,214,180,97,1991-07-23,Novokuznetsk,,RUS
+CAR,8476958,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476958.png,Jaccob,Slavin,74,D,L,75,207,191,94,1994-05-01,Denver,CO,USA
+CAR,8479388,https://assets.nhle.com/mugs/nhl/20242025/CAR/8479388.png,Riley,Stillman,61,D,L,74,207,188,94,1998-03-09,Peterborough,ON,CAN
+CAR,8480336,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480336.png,Sean,Walker,26,D,R,71,191,180,87,1994-11-13,Keswick,ON,CAN
+CAR,8475883,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475883.png,Frederik,Andersen,31,G,L,76,229,193,104,1989-10-02,Herning,,DNK
+CAR,8481611,https://assets.nhle.com/mugs/nhl/20242025/CAR/8481611.png,Pyotr,Kochetkov,52,G,L,75,193,191,88,1999-06-25,Penza,,RUS

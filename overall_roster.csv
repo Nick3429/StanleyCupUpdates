@@ -1,0 +1,418 @@
+team,id,headshot,firstName,lastName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,heightInCentimeters,weightInKilograms,birthDate,birthCity,birthStateProvince,birthCountry
+WPG,8479994,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479994.png,Jaret,Anderson-Dolan,28,C,L,71,200,180,91,1999-09-12,Calgary,AB,CAN
+WPG,8478891,https://assets.nhle.com/mugs/nhl/20242025/WPG/8478891.png,Mason,Appleton,22,C,R,74,194,188,88,1996-01-15,Green Bay,WI,USA
+WPG,8480289,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480289.png,Morgan,Barron,36,C,L,76,220,193,100,1998-12-02,Halifax,NS,CAN
+WPG,8478398,https://assets.nhle.com/mugs/nhl/20242025/WPG/8478398.png,Kyle,Connor,81,L,L,73,183,185,83,1996-12-09,Shelby Township,MI,USA
+WPG,8477940,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477940.png,Nikolaj,Ehlers,27,L,L,72,172,183,78,1996-02-14,Aalborg,,DNK
+WPG,8481019,https://assets.nhle.com/mugs/nhl/20242025/WPG/8481019.png,David,Gustafsson,19,C,L,74,196,188,89,2000-04-11,Tingsryd,,SWE
+WPG,8480113,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480113.png,Alex,Iafallo,9,L,L,72,201,183,91,1993-12-21,Eden,NY,USA
+WPG,8480845,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480845.png,Rasmus,Kupari,15,C,R,74,201,188,91,2000-03-15,Kotka,,FIN
+WPG,8476392,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476392.png,Adam,Lowry,17,C,L,77,210,196,95,1993-03-29,St. Louis,MO,USA
+WPG,8476480,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476480.png,Vladislav,Namestnikov,7,C,L,72,181,183,82,1992-11-22,Zhukovskiy,,RUS
+WPG,8475799,https://assets.nhle.com/mugs/nhl/20242025/WPG/8475799.png,Nino,Niederreiter,62,R,L,74,218,188,99,1992-09-08,Chur,,CHE
+WPG,8482149,https://assets.nhle.com/mugs/nhl/20242025/WPG/8482149.png,Cole,Perfetti,91,C,L,71,185,180,84,2002-01-01,Whitby,ON,CAN
+WPG,8476460,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476460.png,Mark,Scheifele,55,C,R,75,207,191,94,1993-03-15,Kitchener,ON,CAN
+WPG,8479293,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479293.png,Brandon,Tanev,73,L,L,72,189,183,86,1991-12-31,Toronto,ON,CAN
+WPG,8476952,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476952.png,Dominic,Toninato,21,C,L,74,201,188,91,1994-03-09,Duluth,MN,USA
+WPG,8480014,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480014.png,Gabriel,Vilardi,13,C,R,75,216,191,98,1999-08-16,Kingston,ON,CAN
+WPG,8476331,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476331.png,Dylan,DeMelo,2,D,R,73,194,185,88,1993-05-01,London,ON,CAN
+WPG,8477938,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477938.png,Haydn,Fleury,24,D,L,76,207,193,94,1996-07-08,Carlyle,SK,CAN
+WPG,8481572,https://assets.nhle.com/mugs/nhl/20242025/WPG/8481572.png,Ville,Heinola,14,D,L,72,181,183,82,2001-03-02,Honkajoki,,FIN
+WPG,8476525,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476525.png,Colin,Miller,6,D,R,73,200,185,91,1992-10-29,Sault Ste. Marie,ON,CAN
+WPG,8477504,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477504.png,Josh,Morrissey,44,D,L,72,195,183,88,1995-03-28,Calgary,AB,CAN
+WPG,8480145,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480145.png,Neal,Pionk,4,D,R,72,190,183,86,1995-07-29,Omaha,NE,USA
+WPG,8480049,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480049.png,Dylan,Samberg,54,D,L,76,216,193,98,1999-01-24,Saginaw,MN,USA
+WPG,8474568,https://assets.nhle.com/mugs/nhl/20242025/WPG/8474568.png,Luke,Schenn,5,D,R,74,225,188,102,1989-11-02,Saskatoon,SK,CAN
+WPG,8479378,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479378.png,Logan,Stanley,64,D,L,79,231,201,105,1998-05-26,Waterloo,ON,CAN
+WPG,8477480,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477480.png,Eric,Comrie,1,G,L,73,190,185,86,1995-07-06,Edmonton,AB,CAN
+WPG,8476904,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476904.png,Chris,Driedger,60,G,L,76,210,193,95,1994-05-18,Winnipeg,MB,CAN
+WPG,8476945,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476945.png,Connor,Hellebuyck,37,G,L,76,207,193,94,1993-05-19,Commerce,MI,USA
+STL,8482737,https://assets.nhle.com/mugs/nhl/20242025/STL/8482737.png,Zack,Bolduc,76,R,L,72,187,183,85,2003-02-24,Trois-Rivières,QC,CAN
+STL,8477402,https://assets.nhle.com/mugs/nhl/20242025/STL/8477402.png,Pavel,Buchnevich,89,L,L,73,196,185,89,1995-04-17,Cherepovets,,RUS
+STL,8476889,https://assets.nhle.com/mugs/nhl/20242025/STL/8476889.png,Radek,Faksa,12,C,L,75,215,191,98,1994-01-09,Vitkov,,CZE
+STL,8482077,https://assets.nhle.com/mugs/nhl/20242025/STL/8482077.png,Dylan,Holloway,81,L,L,73,206,185,93,2001-09-23,Calgary,AB,CAN
+STL,8478472,https://assets.nhle.com/mugs/nhl/20242025/STL/8478472.png,Mathieu,Joseph,71,R,L,73,186,185,84,1997-02-09,Laval,QC,CAN
+STL,8479385,https://assets.nhle.com/mugs/nhl/20242025/STL/8479385.png,Jordan,Kyrou,25,R,R,73,196,185,89,1998-05-05,Toronto,ON,CAN
+STL,8482089,https://assets.nhle.com/mugs/nhl/20242025/STL/8482089.png,Jake,Neighbours,63,L,L,72,201,183,91,2002-03-29,Calgary,AB,CAN
+STL,8475170,https://assets.nhle.com/mugs/nhl/20242025/STL/8475170.png,Brayden,Schenn,10,C,L,73,199,185,90,1991-08-22,Saskatoon,SK,CAN
+STL,8483516,https://assets.nhle.com/mugs/nhl/20242025/STL/8483516.png,Jimmy,Snuggerud,21,R,R,73,186,185,84,2004-06-01,Minneapolis,MN,USA
+STL,8476897,https://assets.nhle.com/mugs/nhl/20242025/STL/8476897.png,Oskar,Sundqvist,70,C,R,75,220,191,100,1994-03-23,Boden,,SWE
+STL,8480074,https://assets.nhle.com/mugs/nhl/20242025/STL/8480074.png,Alexandre,Texier,9,L,L,73,201,185,91,1999-09-13,Saint-Martin-d'Hères,,FRA
+STL,8480023,https://assets.nhle.com/mugs/nhl/20242025/STL/8480023.png,Robert,Thomas,18,C,R,72,207,183,94,1999-07-02,Aurora,ON,CAN
+STL,8480281,https://assets.nhle.com/mugs/nhl/20242025/STL/8480281.png,Alexey,Toropchenko,13,R,L,78,222,198,101,1999-06-25,Moscow,,RUS
+STL,8477573,https://assets.nhle.com/mugs/nhl/20242025/STL/8477573.png,Nathan,Walker,26,L,L,69,187,175,85,1994-02-07,Cardiff,,GBR
+STL,8481598,https://assets.nhle.com/mugs/nhl/20242025/STL/8481598.png,Philip,Broberg,6,D,L,76,212,193,96,2001-06-25,Orebro,,SWE
+STL,8475753,https://assets.nhle.com/mugs/nhl/20242025/STL/8475753.png,Justin,Faulk,72,D,R,72,214,183,97,1992-03-20,South St. Paul,MN,USA
+STL,8475764,https://assets.nhle.com/mugs/nhl/20242025/STL/8475764.png,Cam,Fowler,17,D,L,74,210,188,95,1991-12-05,Windsor,ON,CAN
+STL,8482516,https://assets.nhle.com/mugs/nhl/20242025/STL/8482516.png,Matthew,Kessel,51,D,R,74,205,188,93,2000-06-23,Bloomfield Hills,MI,USA
+STL,8475181,https://assets.nhle.com/mugs/nhl/20242025/STL/8475181.png,Nick,Leddy,4,D,L,72,205,183,93,1991-03-20,Eden Prairie,MN,USA
+STL,8476892,https://assets.nhle.com/mugs/nhl/20242025/STL/8476892.png,Colton,Parayko,55,D,R,78,228,198,103,1993-05-12,St. Albert,AB,CAN
+STL,8470600,https://assets.nhle.com/mugs/nhl/20242025/STL/8470600.png,Ryan,Suter,22,D,L,73,201,185,91,1985-01-21,Madison,WI,USA
+STL,8481006,https://assets.nhle.com/mugs/nhl/20242025/STL/8481006.png,Tyler,Tucker,75,D,L,73,204,185,93,2000-03-01,Thunder Bay,ON,CAN
+STL,8476412,https://assets.nhle.com/mugs/nhl/20242025/STL/8476412.png,Jordan,Binnington,50,G,L,74,172,188,78,1993-07-11,Richmond Hill,ON,CAN
+STL,8482205,https://assets.nhle.com/mugs/nhl/20242025/STL/8482205.png,Will,Cranley,85,G,L,76,185,193,84,2002-02-26,Peterborough,ON,CAN
+STL,8480981,https://assets.nhle.com/mugs/nhl/20242025/STL/8480981.png,Joel,Hofer,30,G,L,77,179,196,81,2000-07-30,Winnipeg,MB,CAN
+COL,8479525,https://assets.nhle.com/mugs/nhl/20242025/COL/8479525.png,Ross,Colton,20,C,L,72,194,183,88,1996-09-11,Robbinsville,NJ,USA
+COL,8475745,https://assets.nhle.com/mugs/nhl/20242025/COL/8475745.png,Charlie,Coyle,10,C,R,75,215,191,98,1992-03-02,East Weymouth,MA,USA
+COL,8477494,https://assets.nhle.com/mugs/nhl/20242025/COL/8477494.png,Jonathan,Drouin,27,L,L,71,198,180,90,1995-03-28,Ste-Agathe,QC,CAN
+COL,8480835,https://assets.nhle.com/mugs/nhl/20242025/COL/8480835.png,Jack,Drury,18,C,L,71,186,180,84,2000-02-03,New York,NY,USA
+COL,8480448,https://assets.nhle.com/mugs/nhl/20242025/COL/8480448.png,Parker,Kelly,17,C,L,73,185,185,84,1999-05-14,Camrose,AB,CAN
+COL,8481641,https://assets.nhle.com/mugs/nhl/20242025/COL/8481641.png,Joel,Kiviranta,94,L,L,71,185,180,84,1996-03-23,Vantaa,,FIN
+COL,8477476,https://assets.nhle.com/mugs/nhl/20242025/COL/8477476.png,Artturi,Lehkonen,62,L,L,71,179,180,81,1995-07-04,Piikkio,,FIN
+COL,8477492,https://assets.nhle.com/mugs/nhl/20242025/COL/8477492.png,Nathan,MacKinnon,29,C,R,72,200,183,91,1995-09-01,Halifax,NS,CAN
+COL,8480039,https://assets.nhle.com/mugs/nhl/20242025/COL/8480039.png,Martin,Necas,88,C,R,75,195,191,88,1999-01-15,Nove Mesto na Morave,,CZE
+COL,8475754,https://assets.nhle.com/mugs/nhl/20242025/COL/8475754.png,Brock,Nelson,11,C,L,76,205,193,93,1991-10-15,Warroad,MN,USA
+COL,8477501,https://assets.nhle.com/mugs/nhl/20242025/COL/8477501.png,Valeri,Nichushkin,13,R,L,76,210,193,95,1995-03-04,Chelyabinsk,,RUS
+COL,8481186,https://assets.nhle.com/mugs/nhl/20242025/COL/8481186.png,Logan,O'Connor,25,R,R,72,175,183,79,1996-08-14,Missouri City,TX,USA
+COL,8476918,https://assets.nhle.com/mugs/nhl/20242025/COL/8476918.png,Jimmy,Vesey,26,L,L,74,203,188,92,1993-05-26,Boston,MA,USA
+COL,8477425,https://assets.nhle.com/mugs/nhl/20242025/COL/8477425.png,Miles,Wood,28,L,L,74,195,188,88,1995-09-13,Buffalo,NY,USA
+COL,8479398,https://assets.nhle.com/mugs/nhl/20242025/COL/8479398.png,Samuel,Girard,49,D,L,70,170,178,77,1998-05-12,Roberval,QC,CAN
+COL,8473446,https://assets.nhle.com/mugs/nhl/20242025/COL/8473446.png,Erik,Johnson,6,D,R,76,225,193,102,1988-03-21,Bloomington,MN,USA
+COL,8479324,https://assets.nhle.com/mugs/nhl/20242025/COL/8479324.png,Ryan,Lindgren,55,D,L,72,194,183,88,1998-02-11,Burnsville,MN,USA
+COL,8480069,https://assets.nhle.com/mugs/nhl/20242025/COL/8480069.png,Cale,Makar,8,D,R,72,187,183,85,1998-10-30,Calgary,AB,CAN
+COL,8484258,https://assets.nhle.com/mugs/nhl/20242025/COL/8484258.png,Sam,Malinski,70,D,R,71,190,180,86,1998-07-27,Lakeville,MN,USA
+COL,8476312,https://assets.nhle.com/mugs/nhl/20242025/COL/8476312.png,Josh,Manson,42,D,R,75,218,191,99,1991-10-07,Hinsdale,IL,USA
+COL,8479387,https://assets.nhle.com/mugs/nhl/20242025/COL/8479387.png,Keaton,Middleton,67,D,L,78,240,198,109,1998-02-10,Edmonton,AB,CAN
+COL,8478038,https://assets.nhle.com/mugs/nhl/20242025/COL/8478038.png,Devon,Toews,7,D,L,73,191,185,87,1994-02-21,Abbotsford,BC,CAN
+COL,8478406,https://assets.nhle.com/mugs/nhl/20242025/COL/8478406.png,Mackenzie,Blackwood,39,G,L,76,225,193,102,1996-12-09,Thunder Bay,ON,CAN
+COL,8475809,https://assets.nhle.com/mugs/nhl/20242025/COL/8475809.png,Scott,Wedgewood,41,G,L,74,201,188,91,1992-08-14,Brampton,ON,CAN
+DAL,8473994,https://assets.nhle.com/mugs/nhl/20242025/DAL/8473994.png,Jamie,Benn,14,L,L,75,206,191,93,1989-07-18,Victoria,BC,CAN
+DAL,8476278,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476278.png,Colin,Blackwell,15,C,R,68,190,173,86,1993-03-28,North Andover,MA,USA
+DAL,8482145,https://assets.nhle.com/mugs/nhl/20242025/DAL/8482145.png,Mavrik,Bourque,22,C,R,71,181,180,82,2002-01-08,Plessisville,QC,CAN
+DAL,8480840,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480840.png,Oskar,Bäck,10,C,L,76,202,193,92,2000-03-12,Karlstad,,SWE
+DAL,8474149,https://assets.nhle.com/mugs/nhl/20242025/DAL/8474149.png,Evgenii,Dadonov,63,R,L,71,188,180,85,1989-03-12,Chelyabinsk,,RUS
+DAL,8475168,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475168.png,Matt,Duchene,95,C,L,71,212,180,96,1991-01-16,Haliburton,ON,CAN
+DAL,8475798,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475798.png,Mikael,Granlund,64,C,L,70,185,178,84,1992-02-26,Oulu,,FIN
+DAL,8478449,https://assets.nhle.com/mugs/nhl/20242025/DAL/8478449.png,Roope,Hintz,24,C,L,75,213,191,97,1996-11-17,Nokia,,FIN
+DAL,8482740,https://assets.nhle.com/mugs/nhl/20242025/DAL/8482740.png,Wyatt,Johnston,53,C,R,73,185,185,84,2003-05-14,Toronto,ON,CAN
+DAL,8478975,https://assets.nhle.com/mugs/nhl/20242025/DAL/8478975.png,Mason,Marchment,27,L,L,77,212,196,96,1995-06-18,Uxbridge,ON,CAN
+DAL,8478420,https://assets.nhle.com/mugs/nhl/20242025/DAL/8478420.png,Mikko,Rantanen,96,R,L,76,215,193,98,1996-10-29,Nousiainen,,FIN
+DAL,8480027,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480027.png,Jason,Robertson,21,L,L,75,207,191,94,1999-07-22,Arcadia,CA,USA
+DAL,8475794,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475794.png,Tyler,Seguin,91,C,R,74,201,188,91,1992-01-31,Brampton,ON,CAN
+DAL,8479351,https://assets.nhle.com/mugs/nhl/20242025/DAL/8479351.png,Sam,Steel,18,C,L,72,189,183,86,1998-02-03,Ardrossan,AB,CAN
+DAL,8483425,https://assets.nhle.com/mugs/nhl/20242025/DAL/8483425.png,Lian,Bichsel,6,D,L,79,231,201,105,2004-05-18,Olten,,CHE
+DAL,8476879,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476879.png,Cody,Ceci,44,D,R,75,210,191,95,1993-12-21,Ottawa,ON,CAN
+DAL,8476856,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476856.png,Mathew,Dumba,3,D,R,73,185,185,84,1994-07-25,Regina,SK,CAN
+DAL,8481581,https://assets.nhle.com/mugs/nhl/20242025/DAL/8481581.png,Thomas,Harley,55,D,L,75,211,191,96,2001-08-19,Syracuse,NY,USA
+DAL,8480036,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480036.png,Miro,Heiskanen,4,D,L,74,197,188,89,1999-07-18,Espoo,,FIN
+DAL,8476902,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476902.png,Esa,Lindell,23,D,L,75,217,191,98,1994-05-23,Vantaa,,FIN
+DAL,8480878,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480878.png,Nils,Lundkvist,5,D,R,73,191,185,87,2000-07-27,Pitea,,SWE
+DAL,8480950,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480950.png,Ilya,Lyubushkin,46,D,R,74,200,188,91,1994-04-06,Moscow,,RUS
+DAL,8475755,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475755.png,Alexander,Petrovic,28,D,R,77,211,196,96,1992-03-03,Edmonton,AB,CAN
+DAL,8474090,https://assets.nhle.com/mugs/nhl/20242025/DAL/8474090.png,Brendan,Smith,2,D,L,74,200,188,91,1989-02-08,Mimico,ON,CAN
+DAL,8479193,https://assets.nhle.com/mugs/nhl/20242025/DAL/8479193.png,Casey,DeSmith,1,G,L,72,180,183,82,1991-08-13,Rochester,NH,USA
+DAL,8484835,https://assets.nhle.com/mugs/nhl/20242025/DAL/8484835.png,Ben,Kraws,32,G,L,77,199,196,90,2000-08-02,Cranbury,NJ,USA
+DAL,8479979,https://assets.nhle.com/mugs/nhl/20242025/DAL/8479979.png,Jake,Oettinger,29,G,L,78,224,198,102,1998-12-18,Lakeville,MN,USA
+VGK,8477964,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477964.png,Ivan,Barbashev,49,C,L,72,203,183,92,1995-12-14,Moscow,,RUS
+VGK,8481604,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481604.png,Pavel,Dorofeyev,16,L,L,73,194,185,88,2000-10-26,Nizhny Tagil,,RUS
+VGK,8478403,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478403.png,Jack,Eichel,9,C,R,74,206,188,93,1996-10-28,North Chelmsford,MA,USA
+VGK,8476881,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476881.png,Tomas,Hertl,48,C,L,75,220,191,100,1993-11-12,Praha,,CZE
+VGK,8482125,https://assets.nhle.com/mugs/nhl/20242025/VGK/8482125.png,Alexander,Holtz,26,R,R,72,198,183,90,2002-01-23,Stockholm,,SWE
+VGK,8479353,https://assets.nhle.com/mugs/nhl/20242025/VGK/8479353.png,Brett,Howden,21,C,L,74,201,188,91,1998-03-29,Calgary,AB,CAN
+VGK,8476448,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476448.png,William,Karlsson,71,C,L,72,190,183,86,1993-01-08,Marsta,,SWE
+VGK,8478434,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478434.png,Keegan,Kolesar,55,R,R,74,216,188,98,1997-04-08,Brandon,MB,CAN
+VGK,8478109,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478109.png,Victor,Olofsson,95,R,L,71,180,180,82,1995-07-18,Ornskoldsvik,,SWE
+VGK,8476871,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476871.png,Tanner,Pearson,70,L,L,73,207,185,94,1992-08-10,Kitchener,ON,CAN
+VGK,8480007,https://assets.nhle.com/mugs/nhl/20242025/VGK/8480007.png,Jonas,Rondbjerg,46,R,L,74,204,188,93,1999-03-31,Horsholm,,DNK
+VGK,8478462,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478462.png,Nicolas,Roy,10,C,R,76,201,193,91,1997-02-05,Amos,QC,CAN
+VGK,8476438,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476438.png,Brandon,Saad,20,L,L,73,215,185,98,1992-10-27,Pittsburgh,PA,USA
+VGK,8481655,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481655.png,Cole,Schwindt,22,R,R,74,203,188,92,2001-04-25,Kitchener,ON,CAN
+VGK,8475191,https://assets.nhle.com/mugs/nhl/20242025/VGK/8475191.png,Reilly,Smith,19,R,L,73,185,185,84,1991-04-01,Mimico,ON,CAN
+VGK,8475913,https://assets.nhle.com/mugs/nhl/20242025/VGK/8475913.png,Mark,Stone,61,R,R,75,210,191,95,1992-05-13,Winnipeg,MB,CAN
+VGK,8479980,https://assets.nhle.com/mugs/nhl/20242025/VGK/8479980.png,Nicolas,Hague,14,D,L,78,245,198,111,1998-12-05,Kitchener,ON,CAN
+VGK,8478396,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478396.png,Noah,Hanifin,15,D,L,75,206,191,93,1997-01-25,Boston,MA,USA
+VGK,8477018,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477018.png,Ben,Hutton,17,D,L,75,209,191,95,1993-04-20,Brockville,ON,CAN
+VGK,8481527,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481527.png,Kaedan,Korczak,6,D,R,75,203,191,92,2001-01-29,Yorkton,SK,CAN
+VGK,8475188,https://assets.nhle.com/mugs/nhl/20242025/VGK/8475188.png,Brayden,McNabb,3,D,L,76,215,193,98,1991-01-21,Davidson,SK,CAN
+VGK,8474565,https://assets.nhle.com/mugs/nhl/20242025/VGK/8474565.png,Alex,Pietrangelo,7,D,R,75,215,191,98,1990-01-18,King City,ON,CAN
+VGK,8477447,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477447.png,Shea,Theodore,27,D,L,74,197,188,89,1995-08-03,Aldergrove,BC,CAN
+VGK,8480727,https://assets.nhle.com/mugs/nhl/20242025/VGK/8480727.png,Zach,Whitecloud,2,D,R,74,210,188,95,1996-11-28,Brandon,MB,CAN
+VGK,8478499,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478499.png,Adin,Hill,33,G,L,76,215,193,98,1996-05-11,Comox,BC,CAN
+VGK,8478492,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478492.png,Ilya,Samsonov,35,G,L,75,208,191,94,1997-02-22,Magnitogorsk,,RUS
+VGK,8481033,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481033.png,Akira,Schmid,40,G,L,77,190,196,86,2000-05-12,Bern,,CHE
+MIN,8481557,https://assets.nhle.com/mugs/nhl/20242025/MIN/8481557.png,Matt,Boldy,12,L,L,74,201,188,91,2001-04-05,Milford,MA,USA
+MIN,8479638,https://assets.nhle.com/mugs/nhl/20242025/MIN/8479638.png,Justin,Brazeau,15,R,R,78,227,198,103,1998-02-02,New Liskeard,ON,CAN
+MIN,8478493,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478493.png,Joel,Eriksson Ek,14,C,L,75,207,191,94,1997-01-29,Karlstad,,SWE
+MIN,8475220,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475220.png,Marcus,Foligno,17,L,L,75,226,191,103,1991-08-10,Buffalo,NY,USA
+MIN,8477919,https://assets.nhle.com/mugs/nhl/20242025/MIN/8477919.png,Frederick,Gaudreau,89,C,R,72,184,183,83,1993-05-01,Bromont,QC,CAN
+MIN,8477451,https://assets.nhle.com/mugs/nhl/20242025/MIN/8477451.png,Ryan,Hartman,38,R,R,72,197,183,89,1994-09-20,Hilton Head Island,SC,USA
+MIN,8476994,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476994.png,Vinnie,Hinostroza,18,C,R,70,183,178,83,1994-04-03,Chicago,IL,USA
+MIN,8475149,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475149.png,Marcus,Johansson,90,L,L,73,203,185,92,1990-10-06,Landskrona,,SWE
+MIN,8478864,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478864.png,Kirill,Kaprizov,97,L,L,70,202,178,92,1997-04-26,Novokuznetsk,,RUS
+MIN,8474679,https://assets.nhle.com/mugs/nhl/20242025/MIN/8474679.png,Gustav,Nyquist,41,C,L,71,180,180,82,1989-09-01,Halmstad,,SWE
+MIN,8482079,https://assets.nhle.com/mugs/nhl/20242025/MIN/8482079.png,Marco,Rossi,23,C,L,69,182,175,83,2001-09-23,Feldkirch,,AUT
+MIN,8478508,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478508.png,Yakov,Trenin,13,C,L,74,201,188,91,1997-01-13,Chelyabinsk,,RUS
+MIN,8475692,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475692.png,Mats,Zuccarello,36,R,L,68,181,173,82,1987-09-01,Oslo,,NOR
+MIN,8474567,https://assets.nhle.com/mugs/nhl/20242025/MIN/8474567.png,Zach,Bogosian,24,D,R,75,231,191,105,1990-07-15,Massena,NY,USA
+MIN,8476463,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476463.png,Jonas,Brodin,25,D,L,74,196,188,89,1993-07-12,Karlstad,,SWE
+MIN,8484798,https://assets.nhle.com/mugs/nhl/20242025/MIN/8484798.png,Zeev,Buium,8,D,L,72,183,183,83,2005-12-07,San Diego,CA,USA
+MIN,8480990,https://assets.nhle.com/mugs/nhl/20242025/MIN/8480990.png,Declan,Chisholm,47,D,L,73,190,185,86,2000-01-12,Bowmanville,ON,CAN
+MIN,8482122,https://assets.nhle.com/mugs/nhl/20242025/MIN/8482122.png,Brock,Faber,7,D,R,73,200,185,91,2002-08-22,Maple Grove,MN,USA
+MIN,8475750,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475750.png,Jon,Merrill,4,D,L,75,204,191,93,1992-02-03,Oklahoma City,OK,USA
+MIN,8478136,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478136.png,Jake,Middleton,5,D,L,75,219,191,99,1996-01-02,Wainwright,AB,CAN
+MIN,8474716,https://assets.nhle.com/mugs/nhl/20242025/MIN/8474716.png,Jared,Spurgeon,46,D,R,69,166,175,75,1989-11-29,Edmonton,AB,CAN
+MIN,8470594,https://assets.nhle.com/mugs/nhl/20242025/MIN/8470594.png,Marc-Andre,Fleury,29,G,L,74,185,188,84,1984-11-28,Sorel,QC,CAN
+MIN,8479406,https://assets.nhle.com/mugs/nhl/20242025/MIN/8479406.png,Filip,Gustavsson,32,G,L,74,184,188,83,1998-06-07,Skelleftea,,SWE
+LAK,8482124,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482124.png,Quinton,Byfield,55,R,L,77,225,196,102,2002-08-19,Newmarket,ON,CAN
+LAK,8476479,https://assets.nhle.com/mugs/nhl/20242025/LAK/8476479.png,Phillip,Danault,24,C,L,73,200,185,91,1993-02-24,Victoriaville,QC,CAN
+LAK,8477942,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477942.png,Kevin,Fiala,22,L,L,72,205,183,93,1996-07-22,St. Gallen,,CHE
+LAK,8477998,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477998.png,Warren,Foegele,37,L,L,74,204,188,93,1996-04-01,Markham,ON,CAN
+LAK,8482726,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482726.png,Samuel,Helenius,79,C,L,78,201,198,91,2002-11-26,Dallas,TX,USA
+LAK,8479661,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479661.png,Tanner,Jeannot,10,L,L,74,220,188,100,1997-05-29,Estevan,SK,CAN
+LAK,8477960,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477960.png,Adrian,Kempe,9,R,L,74,200,188,91,1996-09-13,Kramfors,,SWE
+LAK,8471685,https://assets.nhle.com/mugs/nhl/20242025/LAK/8471685.png,Anze,Kopitar,11,C,L,75,225,191,102,1987-08-24,Jesenice,,SVN
+LAK,8483808,https://assets.nhle.com/mugs/nhl/20242025/LAK/8483808.png,Andrei,Kuzmenko,96,L,R,71,194,180,88,1996-02-04,Yakutsk,,RUS
+LAK,8482155,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482155.png,Alex,Laferriere,14,R,R,73,205,185,93,2001-10-28,Chatham,NJ,USA
+LAK,8473453,https://assets.nhle.com/mugs/nhl/20242025/LAK/8473453.png,Trevor,Lewis,61,C,R,73,205,185,93,1987-01-08,Salt Lake City,UT,USA
+LAK,8482408,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482408.png,Jeff,Malott,39,L,L,77,208,196,94,1996-08-07,Burlington,ON,CAN
+LAK,8479675,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479675.png,Trevor,Moore,12,L,L,71,195,180,88,1995-03-31,Thousand Oaks,CA,USA
+LAK,8480851,https://assets.nhle.com/mugs/nhl/20242025/LAK/8480851.png,Akil,Thomas,26,C,R,72,195,183,88,2000-01-02,Toronto,ON,CAN
+LAK,8481532,https://assets.nhle.com/mugs/nhl/20242025/LAK/8481532.png,Alex,Turcotte,15,C,L,71,185,180,84,2001-02-26,Elk Grove,IL,USA
+LAK,8483406,https://assets.nhle.com/mugs/nhl/20242025/LAK/8483406.png,Taylor,Ward,52,R,R,74,207,188,94,1998-03-31,Kelowna,BC,CAN
+LAK,8479998,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479998.png,Mikey,Anderson,44,D,L,72,195,183,88,1999-05-25,Roseville,MN,USA
+LAK,8477335,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477335.png,Kyle,Burroughs,7,D,R,72,193,183,88,1995-07-12,Vancouver,BC,CAN
+LAK,8482730,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482730.png,Brandt,Clarke,92,D,R,74,200,188,91,2003-02-09,Nepean,ON,CAN
+LAK,8474563,https://assets.nhle.com/mugs/nhl/20242025/LAK/8474563.png,Drew,Doughty,8,D,R,73,210,185,95,1989-12-08,London,ON,CAN
+LAK,8476441,https://assets.nhle.com/mugs/nhl/20242025/LAK/8476441.png,Joel,Edmundson,6,D,L,77,221,196,100,1993-06-28,Brandon,MB,CAN
+LAK,8478882,https://assets.nhle.com/mugs/nhl/20242025/LAK/8478882.png,Vladislav,Gavrikov,84,D,L,75,220,191,100,1995-11-21,Yaroslavl,,RUS
+LAK,8479421,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479421.png,Jacob,Moverare,43,D,L,75,210,191,95,1998-08-31,Ostersund,,SWE
+LAK,8481606,https://assets.nhle.com/mugs/nhl/20242025/LAK/8481606.png,Jordan,Spence,21,D,R,71,180,180,82,2001-02-24,Manly,,AUS
+LAK,8475311,https://assets.nhle.com/mugs/nhl/20242025/LAK/8475311.png,Darcy,Kuemper,35,G,L,77,215,196,98,1990-05-05,Saskatoon,SK,CAN
+LAK,8479496,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479496.png,David,Rittich,31,G,L,76,205,193,93,1992-08-19,Jihlava,,CZE
+EDM,8478042,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478042.png,Viktor,Arvidsson,33,L,R,70,185,178,84,1993-04-08,Skelleftea,,SWE
+EDM,8477015,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477015.png,Connor,Brown,28,R,R,72,184,183,83,1994-01-14,Toronto,ON,CAN
+EDM,8477934,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477934.png,Leon,Draisaitl,29,C,L,74,209,188,95,1995-10-27,Cologne,,DEU
+EDM,8479365,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479365.png,Trent,Frederic,21,C,L,75,221,191,100,1998-02-11,St. Louis,MO,USA
+EDM,8474641,https://assets.nhle.com/mugs/nhl/20242025/EDM/8474641.png,Adam,Henrique,19,C,L,72,195,183,88,1990-02-06,Brantford,ON,CAN
+EDM,8485511,https://assets.nhle.com/mugs/nhl/20242025/EDM/8485511.png,Quinn,Hutson,20,R,R,71,170,180,77,2002-01-01,North Barrington,IL,USA
+EDM,8475786,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475786.png,Zach,Hyman,18,L,R,73,206,185,93,1992-06-09,Toronto,ON,CAN
+EDM,8477406,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477406.png,Mattias,Janmark,13,C,L,74,205,188,93,1992-12-08,Danderyd,,SWE
+EDM,8479368,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479368.png,Max,Jones,46,L,L,75,216,191,98,1998-02-17,Rochester,MI,USA
+EDM,8475169,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475169.png,Evander,Kane,91,L,L,74,218,188,99,1991-08-02,Vancouver,BC,CAN
+EDM,8477953,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477953.png,Kasperi,Kapanen,42,R,R,73,194,185,88,1996-07-23,Kuopio,,FIN
+EDM,8478402,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478402.png,Connor,McDavid,97,C,L,73,194,185,88,1997-01-13,Richmond Hill,ON,CAN
+EDM,8476454,https://assets.nhle.com/mugs/nhl/20242025/EDM/8476454.png,Ryan,Nugent-Hopkins,93,C,L,73,192,185,87,1993-04-12,Burnaby,BC,CAN
+EDM,8470621,https://assets.nhle.com/mugs/nhl/20242025/EDM/8470621.png,Corey,Perry,90,R,R,75,208,191,94,1985-05-16,Peterborough,ON,CAN
+EDM,8481617,https://assets.nhle.com/mugs/nhl/20242025/EDM/8481617.png,Vasily,Podkolzin,92,R,L,73,190,185,86,2001-06-24,Moscow,,RUS
+EDM,8478585,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478585.png,Derek,Ryan,10,C,R,70,185,178,84,1986-12-29,Spokane,WA,USA
+EDM,8475784,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475784.png,Jeff,Skinner,53,C,L,71,200,180,91,1992-05-16,Toronto,ON,CAN
+EDM,8480803,https://assets.nhle.com/mugs/nhl/20242025/EDM/8480803.png,Evan,Bouchard,2,D,R,75,192,191,87,1999-10-20,Oakville,ON,CAN
+EDM,8477384,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477384.png,Joshua,Brown,44,D,R,77,220,196,100,1994-01-21,London,ON,CAN
+EDM,8479341,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479341.png,Cam,Dineen,85,D,L,71,188,180,85,1998-06-19,Toms River,NJ,USA
+EDM,8475218,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475218.png,Mattias,Ekholm,14,D,L,77,225,196,102,1990-05-24,Borlange,,SWE
+EDM,8480834,https://assets.nhle.com/mugs/nhl/20242025/EDM/8480834.png,Ty,Emberson,49,D,R,74,193,188,88,2000-05-23,Eau Claire,WI,USA
+EDM,8475906,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475906.png,John,Klingberg,36,D,R,74,185,188,84,1992-08-14,Gothenburg,,SWE
+EDM,8476967,https://assets.nhle.com/mugs/nhl/20242025/EDM/8476967.png,Brett,Kulak,27,D,L,74,192,188,87,1994-01-06,Edmonton,AB,CAN
+EDM,8477498,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477498.png,Darnell,Nurse,25,D,L,76,215,193,98,1995-02-04,Hamilton,ON,CAN
+EDM,8479442,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479442.png,Troy,Stecher,51,D,R,70,184,178,83,1994-04-07,Richmond,BC,CAN
+EDM,8478013,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478013.png,Jake,Walman,96,D,L,73,218,185,99,1996-02-20,Toronto,ON,CAN
+EDM,8475717,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475717.png,Calvin,Pickard,30,G,L,73,206,185,93,1992-04-15,Moncton,NB,CAN
+EDM,8479973,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479973.png,Stuart,Skinner,74,G,L,76,230,193,104,1998-11-01,Edmonton,AB,CAN
+TOR,8477503,https://assets.nhle.com/mugs/nhl/20242025/TOR/8477503.png,Max,Domi,11,C,L,70,209,178,95,1995-03-02,Winnipeg,MB,CAN
+TOR,8480995,https://assets.nhle.com/mugs/nhl/20242025/TOR/8480995.png,Pontus,Holmberg,29,R,L,72,201,183,91,1999-03-09,Vasteras,,SWE
+TOR,8475714,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475714.png,Calle,Jarnkrok,19,C,R,72,191,183,87,1991-09-25,Gavle,,SWE
+TOR,8480144,https://assets.nhle.com/mugs/nhl/20242025/TOR/8480144.png,David,Kampf,64,C,L,74,193,188,88,1995-01-12,Chomutov,,CZE
+TOR,8482720,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482720.png,Matthew,Knies,23,L,L,75,227,191,103,2002-10-17,Phoenix,AZ,USA
+TOR,8476872,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476872.png,Scott,Laughton,24,L,L,73,191,185,87,1994-05-30,Oakville,ON,CAN
+TOR,8478904,https://assets.nhle.com/mugs/nhl/20242025/TOR/8478904.png,Steven,Lorentz,18,C,L,76,216,193,98,1996-04-13,Kitchener,ON,CAN
+TOR,8478483,https://assets.nhle.com/mugs/nhl/20242025/TOR/8478483.png,Mitch,Marner,16,R,R,72,180,183,82,1997-05-05,Markham,ON,CAN
+TOR,8479318,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479318.png,Auston,Matthews,34,C,L,75,217,191,98,1997-09-17,San Ramon,CA,USA
+TOR,8482259,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482259.png,Bobby,McMann,74,C,L,74,215,188,98,1996-06-15,Wainwright,AB,CAN
+TOR,8477939,https://assets.nhle.com/mugs/nhl/20242025/TOR/8477939.png,William,Nylander,88,R,R,72,202,183,92,1996-05-01,Calgary,AB,CAN
+TOR,8474157,https://assets.nhle.com/mugs/nhl/20242025/TOR/8474157.png,Max,Pacioretty,67,L,L,74,217,188,98,1988-11-20,New Canaan,CT,USA
+TOR,8471817,https://assets.nhle.com/mugs/nhl/20242025/TOR/8471817.png,Ryan,Reaves,75,R,R,74,225,188,102,1987-01-20,Winnipeg,MB,CAN
+TOR,8481582,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481582.png,Nicholas,Robertson,89,L,L,69,178,175,81,2001-09-11,Pasadena,CA,USA
+TOR,8475166,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475166.png,John,Tavares,91,C,L,73,211,185,96,1990-09-20,Mississauga,ON,CAN
+TOR,8481122,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481122.png,Simon,Benoit,2,D,L,76,211,193,96,1998-09-19,Laval,QC,CAN
+TOR,8478443,https://assets.nhle.com/mugs/nhl/20242025/TOR/8478443.png,Brandon,Carlo,25,D,R,77,220,196,100,1996-11-26,Colorado Springs,CO,USA
+TOR,8475171,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475171.png,Oliver,Ekman-Larsson,95,D,L,74,192,188,87,1991-07-17,Karlskrona,,SWE
+TOR,8475825,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475825.png,Jani,Hakanpää,28,D,R,79,225,201,102,1992-03-31,Kirkkonummi,,FIN
+TOR,8476931,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476931.png,Jake,McCabe,22,D,L,73,212,185,96,1993-10-12,Eau Claire,WI,USA
+TOR,8477541,https://assets.nhle.com/mugs/nhl/20242025/TOR/8477541.png,Dakota,Mermis,36,D,L,72,197,183,89,1994-01-05,Alton,IL,USA
+TOR,8479026,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479026.png,Philippe,Myers,51,D,R,77,219,196,99,1997-01-25,Moncton,NB,CAN
+TOR,8476853,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476853.png,Morgan,Rielly,44,D,L,73,225,185,102,1994-03-09,Vancouver,BC,CAN
+TOR,8475690,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475690.png,Chris,Tanev,8,D,R,75,199,191,90,1989-12-20,Toronto,ON,CAN
+TOR,8476932,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476932.png,Anthony,Stolarz,41,G,L,78,243,198,110,1994-01-20,Edison,NJ,USA
+TOR,8479361,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479361.png,Joseph,Woll,60,G,L,75,206,191,93,1998-07-12,Dardenne Prairie,MO,USA
+OTT,8478020,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478020.png,Michael,Amadio,22,R,R,73,199,185,90,1996-05-13,Sault Ste. Marie,ON,CAN
+OTT,8480208,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480208.png,Drake,Batherson,19,R,R,75,200,191,91,1998-04-27,Fort Wayne,IN,USA
+OTT,8476393,https://assets.nhle.com/mugs/nhl/20242025/OTT/8476393.png,Nick,Cousins,21,C,L,71,186,180,84,1993-07-20,Belleville,ON,CAN
+OTT,8481528,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481528.png,Dylan,Cozens,24,C,R,75,207,191,94,2001-02-09,Whitehorse,YT,CAN
+OTT,8478874,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478874.png,Adam,Gaudette,81,R,R,73,187,185,85,1996-10-03,Braintree,MA,USA
+OTT,8473512,https://assets.nhle.com/mugs/nhl/20242025/OTT/8473512.png,Claude,Giroux,28,R,R,71,188,180,85,1988-01-12,Hearst,ON,CAN
+OTT,8482092,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482092.png,Ridly,Greig,71,C,L,72,188,183,85,2002-08-08,Lethbridge,AB,CAN
+OTT,8478146,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478146.png,Matthew,Highmore,15,C,L,71,186,180,84,1996-02-27,Halifax,NS,CAN
+OTT,8478173,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478173.png,Hayden,Hodgson,42,R,R,74,221,188,100,1996-03-02,Windsor,ON,CAN
+OTT,8474102,https://assets.nhle.com/mugs/nhl/20242025/OTT/8474102.png,David,Perron,57,L,R,72,198,183,90,1988-05-28,Sherbrooke,QC,CAN
+OTT,8481596,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481596.png,Shane,Pinto,12,C,R,75,204,191,93,2000-11-12,Franklin Square,NY,USA
+OTT,8482116,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482116.png,Tim,Stützle,18,C,L,72,192,183,87,2002-01-15,Viersen,,DEU
+OTT,8480801,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480801.png,Brady,Tkachuk,7,L,L,76,225,193,102,1999-09-16,Scottsdale,AZ,USA
+OTT,8480188,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480188.png,Fabian,Zetterlund,20,L,R,71,220,180,100,1999-08-25,Karlstad,,SWE
+OTT,8478469,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478469.png,Thomas,Chabot,72,D,L,73,203,185,92,1997-01-30,Sainte-Marie,QC,CAN
+OTT,8478502,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478502.png,Dennis,Gilbert,6,D,L,74,216,188,98,1996-10-30,Buffalo,NY,USA
+OTT,8474612,https://assets.nhle.com/mugs/nhl/20242025/OTT/8474612.png,Travis,Hamonic,23,D,R,72,195,183,88,1990-08-16,St. Malo,MB,CAN
+OTT,8475324,https://assets.nhle.com/mugs/nhl/20242025/OTT/8475324.png,Nick,Jensen,3,D,R,72,196,183,89,1990-09-21,Rogers,MN,USA
+OTT,8482095,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482095.png,Tyler,Kleven,43,D,L,77,221,196,100,2002-01-10,Fargo,ND,USA
+OTT,8484321,https://assets.nhle.com/mugs/nhl/20242025/OTT/8484321.png,Nikolas,Matinpalo,33,D,R,75,211,191,96,1998-10-05,Espoo,,FIN
+OTT,8482105,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482105.png,Jake,Sanderson,85,D,L,74,204,188,93,2002-07-08,Whitefish,MT,USA
+OTT,8482245,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482245.png,Artem,Zub,2,D,R,75,200,191,91,1995-10-03,Khabarovsk,,RUS
+OTT,8476341,https://assets.nhle.com/mugs/nhl/20242025/OTT/8476341.png,Anton,Forsberg,31,G,L,75,198,191,90,1992-11-27,Härnösand,,SWE
+OTT,8476999,https://assets.nhle.com/mugs/nhl/20242025/OTT/8476999.png,Linus,Ullmark,35,G,L,76,215,193,98,1993-07-31,Lugnvik,,SWE
+TBL,8474715,https://assets.nhle.com/mugs/nhl/20242025/TBL/8474715.png,Cam,Atkinson,13,R,R,68,178,173,81,1989-06-05,Riverside,CT,USA
+TBL,8477416,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477416.png,Oliver,Bjorkstrand,22,R,R,72,175,183,79,1995-04-10,Herning,,DNK
+TBL,8482070,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482070.png,Mitchell,Chaffee,41,R,R,73,204,185,93,1998-01-26,Grand Rapids,MI,USA
+TBL,8478519,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478519.png,Anthony,Cirelli,71,C,L,73,191,185,87,1997-07-15,Etobicoke,ON,CAN
+TBL,8483447,https://assets.nhle.com/mugs/nhl/20242025/TBL/8483447.png,Conor,Geekie,14,C,L,76,207,193,94,2004-05-05,Strathclair,MB,CAN
+TBL,8476878,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476878.png,Zemgus,Girgensons,28,C,L,75,192,191,87,1994-01-05,Riga,,LVA
+TBL,8476822,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476822.png,Luke,Glendening,11,C,R,71,190,180,86,1989-04-28,Grand Rapids,MI,USA
+TBL,8482201,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482201.png,Gage,Goncalves,93,C,L,73,184,185,83,2001-01-16,Mission,BC,CAN
+TBL,8476826,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476826.png,Yanni,Gourde,37,C,L,69,174,175,79,1991-12-15,Saint-Narcisse,QC,CAN
+TBL,8477404,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477404.png,Jake,Guentzel,59,C,L,71,178,180,81,1994-10-06,Omaha,NE,USA
+TBL,8479542,https://assets.nhle.com/mugs/nhl/20242025/TBL/8479542.png,Brandon,Hagel,38,L,L,74,180,188,82,1998-08-27,Saskatoon,SK,CAN
+TBL,8476453,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476453.png,Nikita,Kucherov,86,R,L,72,180,183,82,1993-06-17,Maykop,,RUS
+TBL,8477426,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477426.png,Nick,Paul,20,L,L,76,230,193,104,1995-03-20,Mississauga,ON,CAN
+TBL,8478010,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478010.png,Brayden,Point,21,C,R,71,175,180,79,1996-03-13,Calgary,AB,CAN
+TBL,8478416,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478416.png,Erik,Cernak,81,D,R,76,230,193,104,1997-05-28,Kosice,,SVK
+TBL,8475167,https://assets.nhle.com/mugs/nhl/20242025/TBL/8475167.png,Victor,Hedman,77,D,L,79,245,201,111,1990-12-18,Ornskoldsvik,,SWE
+TBL,8482929,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482929.png,Emil,Lilleberg,78,D,L,75,208,191,94,2001-02-02,Sarpsborg,,NOR
+TBL,8474151,https://assets.nhle.com/mugs/nhl/20242025/TBL/8474151.png,Ryan,McDonagh,27,D,L,74,219,188,99,1989-06-13,St. Paul,MN,USA
+TBL,8482655,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482655.png,J.J.,Moser,90,D,L,74,181,188,82,2000-06-06,Biel,,CHE
+TBL,8480246,https://assets.nhle.com/mugs/nhl/20242025/TBL/8480246.png,Nick,Perbix,48,D,R,76,206,193,93,1998-06-15,Elk River,MN,USA
+TBL,8478178,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478178.png,Darren,Raddysh,43,D,R,73,202,185,92,1996-02-28,Toronto,ON,CAN
+TBL,8477992,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477992.png,Jonas,Johansson,31,G,L,77,218,196,99,1995-09-19,Gavle,,SWE
+TBL,8476883,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476883.png,Andrei,Vasilevskiy,88,G,L,76,228,193,103,1994-07-25,Tyumen,,RUS
+FLA,8479335,https://assets.nhle.com/mugs/nhl/20242025/FLA/8479335.png,Rasmus,Asplund,74,C,L,71,190,180,86,1997-12-03,Filipstad,,SWE
+FLA,8477493,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477493.png,Aleksander,Barkov,16,C,L,75,214,191,97,1995-09-02,Tampere,,FIN
+FLA,8477935,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477935.png,Sam,Bennett,9,C,L,73,193,185,88,1996-06-20,Holland Landing,ON,CAN
+FLA,8480003,https://assets.nhle.com/mugs/nhl/20242025/FLA/8480003.png,Jesper,Boqvist,70,C,L,73,190,185,86,1998-10-30,Falun,,SWE
+FLA,8479981,https://assets.nhle.com/mugs/nhl/20242025/FLA/8479981.png,Jonah,Gadjovich,12,L,L,75,211,191,96,1998-10-12,Whitby,ON,CAN
+FLA,8478421,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478421.png,A.J.,Greer,10,L,L,75,209,191,95,1996-12-14,Joliette,QC,CAN
+FLA,8482113,https://assets.nhle.com/mugs/nhl/20242025/FLA/8482113.png,Anton,Lundell,15,C,L,73,196,185,89,2001-10-03,Espoo,,FIN
+FLA,8480185,https://assets.nhle.com/mugs/nhl/20242025/FLA/8480185.png,Eetu,Luostarinen,27,C,L,75,191,191,87,1998-09-02,Siilinjarvi,,FIN
+FLA,8473419,https://assets.nhle.com/mugs/nhl/20242025/FLA/8473419.png,Brad,Marchand,63,C,L,69,180,175,82,1988-05-11,Halifax,NS,CAN
+FLA,8477931,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477931.png,Tomas,Nosek,92,L,L,75,199,191,90,1992-09-01,Pardubice,,CZE
+FLA,8477933,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477933.png,Sam,Reinhart,13,C,R,73,196,185,89,1995-11-06,West Vancouver,BC,CAN
+FLA,8478542,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478542.png,Evan,Rodrigues,17,C,R,71,182,180,83,1993-07-28,Toronto,ON,CAN
+FLA,8482713,https://assets.nhle.com/mugs/nhl/20242025/FLA/8482713.png,Mackie,Samoskevich,25,R,R,71,180,180,82,2002-11-15,Newtown,CT,USA
+FLA,8481477,https://assets.nhle.com/mugs/nhl/20242025/FLA/8481477.png,Nico,Sturm,8,C,L,75,209,191,95,1995-05-03,Augsburg,,DEU
+FLA,8479314,https://assets.nhle.com/mugs/nhl/20242025/FLA/8479314.png,Matthew,Tkachuk,19,L,L,74,202,188,92,1997-12-11,Scottsdale,AZ,USA
+FLA,8477409,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477409.png,Carter,Verhaeghe,23,C,L,74,183,188,83,1995-08-14,Toronto,ON,CAN
+FLA,8484304,https://assets.nhle.com/mugs/nhl/20242025/FLA/8484304.png,Uvis,Balinskis,26,D,L,72,196,183,89,1996-08-01,Ventspils,,LVA
+FLA,8478055,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478055.png,Gustav,Forsling,42,D,L,73,199,185,90,1996-06-12,Linkoping,,SWE
+FLA,8477495,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477495.png,Seth,Jones,3,D,R,76,213,193,97,1994-10-03,Arlington,TX,USA
+FLA,8482641,https://assets.nhle.com/mugs/nhl/20242025/FLA/8482641.png,Matt,Kiersted,4,D,L,72,182,183,83,1998-04-14,Elk River,MN,USA
+FLA,8475179,https://assets.nhle.com/mugs/nhl/20242025/FLA/8475179.png,Dmitry,Kulikov,7,D,L,73,212,185,96,1990-10-29,Lipetsk,,RUS
+FLA,8477034,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477034.png,Jaycob,Megna,6,D,L,78,214,198,97,1992-12-10,Plantation,FL,USA
+FLA,8478859,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478859.png,Niko,Mikkola,77,D,L,78,204,198,93,1996-04-27,Kiiminki,,FIN
+FLA,8477220,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477220.png,Nate,Schmidt,88,D,L,72,197,183,89,1991-07-16,St. Cloud,MN,USA
+FLA,8475683,https://assets.nhle.com/mugs/nhl/20242025/FLA/8475683.png,Sergei,Bobrovsky,72,G,L,74,180,188,82,1988-09-20,Novokuznetsk,,RUS
+FLA,8477970,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477970.png,Vitek,Vanecek,41,G,L,74,184,188,83,1996-01-09,Havlickuv Brod,,CZE
+WSH,8473563,https://assets.nhle.com/mugs/nhl/20242025/WSH/8473563.png,Nicklas,Backstrom,19,C,L,73,202,185,92,1987-11-23,Gavle,,SWE
+WSH,8478463,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478463.png,Anthony,Beauvillier,72,L,L,71,180,180,82,1997-06-08,Sorel-Tracy,QC,CAN
+WSH,8475343,https://assets.nhle.com/mugs/nhl/20242025/WSH/8475343.png,Nic,Dowd,26,C,R,74,190,188,86,1990-05-27,Huntsville,AL,USA
+WSH,8479400,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479400.png,Pierre-Luc,Dubois,80,L,L,76,220,193,100,1998-06-24,Ste-Agathe-des-Monts,QC,CAN
+WSH,8479520,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479520.png,Brandon,Duhaime,22,R,L,74,210,188,95,1997-05-22,Coral Springs,FL,USA
+WSH,8474189,https://assets.nhle.com/mugs/nhl/20242025/WSH/8474189.png,Lars,Eller,20,C,L,74,208,188,94,1989-05-08,Rodovre,,DNK
+WSH,8483573,https://assets.nhle.com/mugs/nhl/20242025/WSH/8483573.png,Ethen,Frank,53,C,R,71,188,180,85,1998-02-05,Aurora,CO,USA
+WSH,8484186,https://assets.nhle.com/mugs/nhl/20242025/WSH/8484186.png,Ryan,Leonard,9,R,R,72,192,183,87,2005-01-21,Northampton,MA,USA
+WSH,8478233,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478233.png,Andrew,Mangiapane,88,L,L,70,183,178,83,1996-04-04,Toronto,ON,CAN
+WSH,8481580,https://assets.nhle.com/mugs/nhl/20242025/WSH/8481580.png,Connor,McMichael,24,C,L,72,180,183,82,2001-01-15,Ajax,ON,CAN
+WSH,8477947,https://assets.nhle.com/mugs/nhl/20242025/WSH/8477947.png,Sonny,Milano,15,L,L,72,194,183,88,1996-05-12,Massapequa,NY,USA
+WSH,8471698,https://assets.nhle.com/mugs/nhl/20242025/WSH/8471698.png,T.J.,Oshie,77,R,R,72,187,183,85,1986-12-23,Everett,WA,USA
+WSH,8471214,https://assets.nhle.com/mugs/nhl/20242025/WSH/8471214.png,Alex,Ovechkin,8,L,R,75,238,191,108,1985-09-17,Moscow,,RUS
+WSH,8481656,https://assets.nhle.com/mugs/nhl/20242025/WSH/8481656.png,Aliaksei,Protas,21,C,L,78,247,198,112,2001-01-06,Vitebsk,,BLR
+WSH,8479390,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479390.png,Taylor,Raddysh,16,R,R,75,200,191,91,1998-02-18,Caledon,ON,CAN
+WSH,8478440,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478440.png,Dylan,Strome,17,C,L,75,196,191,89,1997-03-07,Mississauga,ON,CAN
+WSH,8476880,https://assets.nhle.com/mugs/nhl/20242025/WSH/8476880.png,Tom,Wilson,43,R,R,76,225,193,102,1994-03-29,Toronto,ON,CAN
+WSH,8480823,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480823.png,Alexander,Alexeyev,27,D,L,76,229,193,104,1999-11-15,St. Petersburg,,RUS
+WSH,8474590,https://assets.nhle.com/mugs/nhl/20242025/WSH/8474590.png,John,Carlson,74,D,R,75,220,191,100,1990-01-10,Natick,MA,USA
+WSH,8479345,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479345.png,Jakob,Chychrun,6,D,L,74,216,188,98,1998-03-31,Boca Raton,FL,USA
+WSH,8480796,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480796.png,Martin,Fehérváry,42,D,L,74,203,188,92,1999-10-06,Bratislava,,SVK
+WSH,8475795,https://assets.nhle.com/mugs/nhl/20242025/WSH/8475795.png,Dylan,McIlrath,52,D,R,77,240,196,109,1992-04-20,Winnipeg,MB,CAN
+WSH,8478911,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478911.png,Matt,Roy,3,D,R,74,212,188,96,1995-03-01,Detroit,MI,USA
+WSH,8480873,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480873.png,Rasmus,Sandin,38,D,L,71,189,180,86,2000-03-07,Uppsala,,SWE
+WSH,8477845,https://assets.nhle.com/mugs/nhl/20242025/WSH/8477845.png,Trevor,van Riemsdyk,57,D,R,75,197,191,89,1991-07-24,Middletown,NJ,USA
+WSH,8479292,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479292.png,Charlie,Lindgren,79,G,R,74,190,188,86,1993-12-18,Lakeville,MN,USA
+WSH,8483532,https://assets.nhle.com/mugs/nhl/20242025/WSH/8483532.png,Clay,Stevenson,33,G,L,76,195,193,88,1999-03-03,Drayton Valley,AB,CAN
+WSH,8480313,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480313.png,Logan,Thompson,48,G,R,76,207,193,94,1997-02-25,Calgary,AB,CAN
+MTL,8476981,https://assets.nhle.com/mugs/nhl/20242025/MTL/8476981.png,Josh,Anderson,17,R,R,75,226,191,103,1994-05-07,Burlington,ON,CAN
+MTL,8476469,https://assets.nhle.com/mugs/nhl/20242025/MTL/8476469.png,Joel,Armia,40,R,R,75,216,191,98,1993-05-31,Pori,,FIN
+MTL,8481540,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481540.png,Cole,Caufield,13,R,R,68,175,173,79,2001-01-02,Mosinee,WI,USA
+MTL,8481523,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481523.png,Kirby,Dach,77,C,R,76,221,193,100,2001-01-21,Fort Saskatchewan,AB,CAN
+MTL,8484984,https://assets.nhle.com/mugs/nhl/20242025/MTL/8484984.png,Ivan,Demidov,93,R,L,73,192,185,87,2005-12-10,Sergiyev Posad,,RUS
+MTL,8477989,https://assets.nhle.com/mugs/nhl/20242025/MTL/8477989.png,Christian,Dvorak,28,C,L,73,190,185,86,1996-02-02,Palos,IL,USA
+MTL,8478133,https://assets.nhle.com/mugs/nhl/20242025/MTL/8478133.png,Jake,Evans,71,C,R,72,190,183,86,1996-06-02,Toronto,ON,CAN
+MTL,8475848,https://assets.nhle.com/mugs/nhl/20242025/MTL/8475848.png,Brendan,Gallagher,11,R,R,69,185,175,84,1992-05-06,Edmonton,AB,CAN
+MTL,8482476,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482476.png,Emil,Heineman,51,L,L,74,198,188,90,2001-11-16,Leksand,,SWE
+MTL,8482775,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482775.png,Oliver,Kapanen,91,C,R,74,194,188,88,2003-07-29,Timra,,SWE
+MTL,8479339,https://assets.nhle.com/mugs/nhl/20242025/MTL/8479339.png,Patrik,Laine,92,R,R,76,208,193,94,1998-04-19,Tampere,,FIN
+MTL,8481618,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481618.png,Alex,Newhook,15,C,L,71,200,180,91,2001-01-28,St. John's,NL,CAN
+MTL,8479543,https://assets.nhle.com/mugs/nhl/20242025/MTL/8479543.png,Michael,Pezzetta,55,L,L,73,219,185,99,1998-03-13,Toronto,ON,CAN
+MTL,8483515,https://assets.nhle.com/mugs/nhl/20242025/MTL/8483515.png,Juraj,Slafkovský,20,L,L,75,225,191,102,2004-03-30,Kosice,,SVK
+MTL,8480018,https://assets.nhle.com/mugs/nhl/20242025/MTL/8480018.png,Nick,Suzuki,14,C,R,71,207,180,94,1999-08-10,London,ON,CAN
+MTL,8478851,https://assets.nhle.com/mugs/nhl/20242025/MTL/8478851.png,Alexandre,Carrier,45,D,R,71,174,180,79,1996-10-08,Quebec City,QC,CAN
+MTL,8482087,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482087.png,Kaiden,Guhle,21,D,L,75,202,191,92,2002-01-18,Edmonton,AB,CAN
+MTL,8483457,https://assets.nhle.com/mugs/nhl/20242025/MTL/8483457.png,Lane,Hutson,48,D,L,69,162,175,73,2004-02-14,Holland,MI,USA
+MTL,8476875,https://assets.nhle.com/mugs/nhl/20242025/MTL/8476875.png,Mike,Matheson,8,D,L,74,196,188,89,1994-02-27,Pointe-Claire,QC,CAN
+MTL,8475233,https://assets.nhle.com/mugs/nhl/20242025/MTL/8475233.png,David,Savard,58,D,R,73,235,185,107,1990-10-22,St-Hyacinthe,QC,CAN
+MTL,8481593,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481593.png,Jayden,Struble,47,D,L,72,207,183,94,2001-09-08,Cumberland,RI,USA
+MTL,8482964,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482964.png,Arber,Xhekaj,72,D,L,76,240,193,109,2001-01-30,Hamilton,ON,CAN
+MTL,8482487,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482487.png,Jakub,Dobes,75,G,L,76,215,193,98,2001-05-27,Ostrava,,CZE
+MTL,8478470,https://assets.nhle.com/mugs/nhl/20242025/MTL/8478470.png,Sam,Montembeault,35,G,L,75,218,191,99,1996-10-30,Becancour,QC,CAN
+CAR,8478427,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478427.png,Sebastian,Aho,20,C,L,72,180,183,82,1997-07-26,Rauma,,FIN
+CAR,8482809,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482809.png,Jackson,Blake,53,R,R,71,178,180,81,2003-08-03,Fargo,ND,USA
+CAR,8480291,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480291.png,Skyler,Brind'Amour,76,C,L,74,195,188,88,1999-07-27,Raleigh,NC,USA
+CAR,8477478,https://assets.nhle.com/mugs/nhl/20242025/CAR/8477478.png,William,Carrier,28,L,L,74,220,188,100,1994-12-20,LaSalle,QC,CAN
+CAR,8475791,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475791.png,Taylor,Hall,71,L,L,73,210,185,95,1991-11-14,Calgary,AB,CAN
+CAR,8476873,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476873.png,Mark,Jankowski,77,C,L,76,212,193,96,1994-09-13,Hamilton,ON,CAN
+CAR,8482093,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482093.png,Seth,Jarvis,24,C,R,70,184,178,83,2002-02-01,Winnipeg,MB,CAN
+CAR,8479370,https://assets.nhle.com/mugs/nhl/20242025/CAR/8479370.png,Tyson,Jost,27,C,L,71,187,180,85,1998-03-14,St. Albert,AB,CAN
+CAR,8480829,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480829.png,Jesperi,Kotkaniemi,82,C,L,75,203,191,92,2000-07-06,Pori,,FIN
+CAR,8476921,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476921.png,Jordan,Martinook,48,L,L,73,208,185,94,1992-07-25,Brandon,MB,CAN
+CAR,8484203,https://assets.nhle.com/mugs/nhl/20242025/CAR/8484203.png,Bradly,Nadeau,29,L,R,71,172,180,78,2005-05-05,St-Francois de Madaw,NB,CAN
+CAR,8480762,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480762.png,Eric,Robinson,50,L,L,74,211,188,96,1995-06-14,Bellmawr,NJ,USA
+CAR,8478458,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478458.png,Jack,Roslovic,96,C,R,73,198,185,90,1997-01-29,Columbus,OH,USA
+CAR,8473533,https://assets.nhle.com/mugs/nhl/20242025/CAR/8473533.png,Jordan,Staal,11,C,L,76,220,193,100,1988-09-10,Thunder Bay,ON,CAN
+CAR,8482702,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482702.png,Logan,Stankoven,22,C,R,68,165,173,75,2003-02-26,Kamloops,BC,CAN
+CAR,8480830,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480830.png,Andrei,Svechnikov,37,R,L,75,199,191,90,2000-03-26,Barnaul,,RUS
+CAR,8470613,https://assets.nhle.com/mugs/nhl/20242025/CAR/8470613.png,Brent,Burns,8,D,R,77,228,196,103,1985-03-09,Barrie,ON,CAN
+CAR,8478970,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478970.png,Jalen,Chatfield,5,D,R,73,199,185,90,1996-05-15,Ypsilanti,MI,USA
+CAR,8481562,https://assets.nhle.com/mugs/nhl/20242025/CAR/8481562.png,Domenick,Fensore,89,D,L,69,175,175,79,2001-09-07,Thornwood,NY,USA
+CAR,8476906,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476906.png,Shayne,Gostisbehere,4,D,L,71,183,180,83,1993-04-20,Pembroke Pines,FL,USA
+CAR,8482666,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482666.png,Scott,Morrow,56,D,R,74,210,188,95,2002-11-01,Darien,CT,USA
+CAR,8475200,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475200.png,Dmitry,Orlov,7,D,L,71,214,180,97,1991-07-23,Novokuznetsk,,RUS
+CAR,8476958,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476958.png,Jaccob,Slavin,74,D,L,75,207,191,94,1994-05-01,Denver,CO,USA
+CAR,8479388,https://assets.nhle.com/mugs/nhl/20242025/CAR/8479388.png,Riley,Stillman,61,D,L,74,207,188,94,1998-03-09,Peterborough,ON,CAN
+CAR,8480336,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480336.png,Sean,Walker,26,D,R,71,191,180,87,1994-11-13,Keswick,ON,CAN
+CAR,8475883,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475883.png,Frederik,Andersen,31,G,L,76,229,193,104,1989-10-02,Herning,,DNK
+CAR,8481611,https://assets.nhle.com/mugs/nhl/20242025/CAR/8481611.png,Pyotr,Kochetkov,52,G,L,75,193,191,88,1999-06-25,Penza,,RUS
+NJD,8479414,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479414.png,Nathan,Bastian,14,R,R,76,205,193,93,1997-12-06,Kitchener,ON,CAN
+NJD,8479407,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479407.png,Jesper,Bratt,63,L,L,70,175,178,79,1998-07-30,Stockholm,,SWE
+NJD,8481032,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481032.png,Paul,Cotter,47,C,L,74,213,188,97,1999-11-16,Canton,MI,USA
+NJD,8475413,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475413.png,Justin,Dowling,37,C,L,70,180,178,82,1990-10-01,Calgary,AB,CAN
+NJD,8481518,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481518.png,Nolan,Foote,29,L,L,75,196,191,89,2000-11-29,Denver,CO,USA
+NJD,8479996,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479996.png,Cody,Glass,12,C,R,75,201,191,91,1999-04-01,Winnipeg,MB,CAN
+NJD,8475287,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475287.png,Erik,Haula,56,L,L,71,191,180,87,1991-03-23,Pori,,FIN
+NJD,8480002,https://assets.nhle.com/mugs/nhl/20242025/NJD/8480002.png,Nico,Hischier,13,C,L,73,175,185,79,1999-01-04,Brig,,CHE
+NJD,8481559,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481559.png,Jack,Hughes,86,C,L,71,175,180,79,2001-05-14,Orlando,FL,USA
+NJD,8477508,https://assets.nhle.com/mugs/nhl/20242025/NJD/8477508.png,Curtis,Lazar,42,C,R,72,203,183,92,1995-02-02,Salmon Arm,BC,CAN
+NJD,8477073,https://assets.nhle.com/mugs/nhl/20242025/NJD/8477073.png,Kurtis,MacDermid,23,L,L,77,233,196,106,1994-03-25,Quebec City,QC,CAN
+NJD,8478414,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478414.png,Timo,Meier,28,R,L,73,220,185,100,1996-10-08,Herisau,,CHE
+NJD,8482110,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482110.png,Dawson,Mercer,91,C,R,72,180,183,82,2001-10-27,Carbonear,NL,CAN
+NJD,8476474,https://assets.nhle.com/mugs/nhl/20242025/NJD/8476474.png,Stefan,Noesen,11,R,R,73,205,185,93,1993-02-12,Plano,TX,USA
+NJD,8476292,https://assets.nhle.com/mugs/nhl/20242025/NJD/8476292.png,Ondrej,Palat,18,L,L,72,194,183,88,1991-03-28,Frydek-Mistek,,CZE
+NJD,8478466,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478466.png,Daniel,Sprong,10,R,R,72,195,183,88,1997-03-17,Amsterdam,,NLD
+NJD,8475193,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475193.png,Tomas,Tatar,90,L,L,70,173,178,78,1990-12-01,Ilava,,SVK
+NJD,8483429,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483429.png,Seamus,Casey,24,D,R,70,162,178,73,2004-01-08,Miami,FL,USA
+NJD,8479395,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479395.png,Dennis,Cholowski,44,D,L,74,210,188,95,1998-02-15,Langley,BC,CAN
+NJD,8475455,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475455.png,Brenden,Dillon,5,D,L,76,225,193,102,1990-11-13,New Westminster,BC,CAN
+NJD,8475208,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475208.png,Brian,Dumoulin,2,D,L,76,214,193,97,1991-09-06,Biddeford,ME,USA
+NJD,8476462,https://assets.nhle.com/mugs/nhl/20242025/NJD/8476462.png,Dougie,Hamilton,7,D,R,78,230,198,104,1993-06-17,Toronto,ON,CAN
+NJD,8482684,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482684.png,Luke,Hughes,43,D,L,74,198,188,90,2003-09-09,Manchester,NH,USA
+NJD,8480192,https://assets.nhle.com/mugs/nhl/20242025/NJD/8480192.png,Johnathan,Kovacevic,8,D,R,77,223,196,101,1997-07-12,Hamilton,ON,CAN
+NJD,8483495,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483495.png,Simon,Nemec,17,D,R,73,190,185,86,2004-02-15,Liptovský Mikuláš,,SVK
+NJD,8477488,https://assets.nhle.com/mugs/nhl/20242025/NJD/8477488.png,Brett,Pesce,22,D,R,75,206,191,93,1994-11-15,Tarrytown,NY,USA
+NJD,8478399,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478399.png,Jonas,Siegenthaler,71,D,L,74,218,188,99,1997-05-06,Zurich,,CHE
+NJD,8474596,https://assets.nhle.com/mugs/nhl/20242025/NJD/8474596.png,Jake,Allen,34,G,L,74,197,188,89,1990-08-07,Fredericton,NB,CAN
+NJD,8482076,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482076.png,Nico,Daws,50,G,L,76,205,193,93,2000-12-22,Munich,,DEU
+NJD,8474593,https://assets.nhle.com/mugs/nhl/20242025/NJD/8474593.png,Jacob,Markstrom,25,G,L,78,207,198,94,1990-01-31,Gavle,,SWE
